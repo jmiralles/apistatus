@@ -1,0 +1,9 @@
+{
+  "name": "apistatus",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemailer": "^3.0.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
